@@ -3,7 +3,7 @@
 
 Project Doppelganger is a data science project that utilizes facial recognition technology to analyze facial expressions and predict emotions. Based on the detected emotion, the application matches the user with a song from a curated playlist on Spotify that reflects their mood.
 
-<img src="https://i.ibb.co/N9zL3dB/pixlr-image-generator-87f2b805-7f1c-4295-ab97-78fff6e53dbd.png" width="400px;"/>
+<img src="https://i.ibb.co/N9zL3dB/pixlr-image-generator-87f2b805-7f1c-4295-ab97-78fff6e53dbd.png" width="600px;"/>
 
 
 
@@ -15,7 +15,7 @@ Project Doppelganger is a data science project that utilizes facial recognition 
 - **User Interaction**: Users can upload their photos and receive personalized song recommendations based on their facial expression.
 
 - **Feedback Loop**: Allows users to rate the accuracy of the emotion prediction and provide feedback on the recommended songs. 
-<img src="https://i.ibb.co/Df607BN/pixlr-image-generator-eda7a538-ed68-4f21-8a85-41ec80ba191b.png" width="400px;"/>
+<img src="https://i.ibb.co/Df607BN/pixlr-image-generator-eda7a538-ed68-4f21-8a85-41ec80ba191b.png" width="600px;"/>
 
 
 ## Technology Used
